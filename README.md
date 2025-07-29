@@ -1,6 +1,6 @@
 # SISSA tutorials per le scuole superiori
 
-Questa repository raccoglie alcuni tutorial di data science, machine learning e crittografia per studenti italiani delle scuole superiori.
+Questa repository raccoglie alcuni tutorial di data science e machine learning per studenti italiani delle scuole superiori.
 
 ## Istruzioni per l'uso:
 Le librerie python necessarie al funzionamento dei tutorial sono elencate nel file `requirements.txt`. Una possibilità è quella di creare un ambiente virtuale di python e installare lì i requirements. A seguire le istruzioni per questa opzione.
