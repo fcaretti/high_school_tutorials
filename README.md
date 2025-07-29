@@ -17,4 +17,4 @@ pip install -r requirements.txt
 In questo modo viene creato l'ambiente python corretto. Ricordarsi di selezionarlo in fase di esecuzione dei notebooks.
 
 # Credits
-I notebook sono stati realizzati da [Federico Caretti](https://github.com/fcaretti) (per la parte di data science e machine learning) e da [Marta Fornasier](https://github.com/MartaFornasier) (per la parte di crittografia), in collaborazione con [SISSA Medialab](https://medialab.sissa.it/it), nel contesto del percorso di orientamento *"Il mondo dei dati: tra ricerca e società"* organizzato presso la SISSA. Possono essere utilizzati citando gli autori.
+I notebook sono stati realizzati da [Federico Caretti](https://github.com/fcaretti) in collaborazione con [SISSA Medialab](https://medialab.sissa.it/it), nel contesto del percorso di orientamento *"Il mondo dei dati: tra ricerca e società"* organizzato presso la SISSA. Possono essere utilizzati citando gli autori.
